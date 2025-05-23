@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="font-size: 40px" >✨ Hey, I'm Taha Siraj! </h1>
+<h1 style="font-size: 40px" >✨ Hey, I'm muzammil nawaz! </h1>
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&width=435&lines=Frontend+Developer!;JavaScript+Enthusiast!;React+&+Next.js+Lover!" alt="Typing SVG" />
 
@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taha-Siraj&theme=radical)
 
-![Taha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-Siraj&show_icons=true&theme=radical&custom_title=Taha's%20GitHub%20Stats)
+![muzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taha-Siraj&show_icons=true&theme=radical&custom_title=Taha's%20GitHub%20Stats)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Taha-Siraj&theme=radical&no-frame=true&margin-w=15)
 </div>
@@ -65,8 +65,8 @@
 ---
 
 ## 🔗 Let's Connect!  
-📩 **Email:** Pikachugaming899@gmail.com  
-🌟 **LinkedIn:** [Taha Siraj](https://linkedin.com/in/taha-siraj-2331952a8)  
+📩 **Email:** muzammilnawaz2935337@gmail.com  
+🌟 **LinkedIn:** [muzammil nawaz](https://linkedin.com/in/taha-siraj-2331952a8)  
 🌍 **Portfolio:** [Coming Soon 🚀]  
 
 ---

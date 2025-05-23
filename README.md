@@ -49,7 +49,7 @@
   - `muzammilnawaz/new-server` – 1 commit
 
 ## 🔗 Let's Connect
-- 📩 Email: [Pikachugaming899@gmail.com](mailto:Pikachugaming899@gmail.com)  
+- 📩 Email: [muzammilnawaz2935337](mailto:Pikachugaming899@gmail.com)  
 - 💼 LinkedIn: [Muzammil Khan](https://linkedin.com/in/your-profile)  
 - 📸 Instagram: [@muzammilnawaz](https://instagram.com/your-username)  
 - 🌐 Portfolio: Coming Soon 🚀

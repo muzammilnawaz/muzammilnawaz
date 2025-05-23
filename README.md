@@ -51,7 +51,7 @@
 ## 🔗 Let's Connect
 - 📩 Email: [muzammilnawaz2935337](mailto:Pikachugaming899@gmail.com)  
 - 💼 LinkedIn: [Muzammil Khan](https://linkedin.com/in/your-profile)  
-- 📸 Instagram: [@muzammilnawaz](https://instagram.com/your-username)  
+- 📸 Instagram: [@muzammil_khan_9000](https://instagram.com/your-username)  
 - 🌐 Portfolio: Coming Soon 🚀
 
 > 🚀 _"Code, Create, Innovate!"_ 🔥
